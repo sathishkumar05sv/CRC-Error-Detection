@@ -1,0 +1,1 @@
+PASS: Swing generate, flip, verify, generator guard and reset; three offscreen captures.

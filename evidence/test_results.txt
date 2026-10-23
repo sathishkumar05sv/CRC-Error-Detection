@@ -1,0 +1,5 @@
+PASS: 5128 checks
+Data=1101011011 Generator=10011 CRC=1110 Frame=11010110111110
+Clean syndrome=0000
+Bit 1 flipped=01010110111110 Syndrome=1101
+Bits 1,4,5 flipped=01001110111110 Syndrome=0000
